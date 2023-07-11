@@ -134,8 +134,6 @@ I have added the linters or tests in order to avoid anykind of typos and ensure 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add header and footer to index.html
-- [ ] Add more styles to style.css
 - [ ] Add more styles to style.css
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
